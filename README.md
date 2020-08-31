@@ -10,6 +10,8 @@ Solutions for intersting quick excercises from everywhere.
 
 [Count Duplicate Characters](./DuplCountRegExp/README.md): Count the number of duplicates of distinct case-insensitive alphabetic characters and numeric digits.
 
+[Count Duplicate Primitives](./DuplCountArray/README.md): Count the number of duplicates of distinct primitives in an array.
+
 ## Development Workflow
 
 ```
